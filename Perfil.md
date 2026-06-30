@@ -1,24 +1,9 @@
-#Luan Caldeira Campos
-Estudante da ETEC de Cubatão
----
+# 👤 Luan Caldeira Campos
 
-##Sobre mim
-*Aluno do 3º Ano de Informática
-*Focado em matérias de Redes
-*Sei o básico de criação de páginas WEB
+**Escola:** ETEC de Cubatão  
+**Curso:** Informática voltada a suporte  
+**Inglês:** Nível intermediário  
 
 ---
-##Linguas
-*Português
-*Inglês báscio
 
----
-##Tecnologias e linguagens que estou aprendendo:
-*HTML
-*JavaScript
-*SQL
-
-Ferramentas:
-*VS Code
-*Notpad++
-*MSQL Workbanch
+Estudante de informática com foco em suporte técnico.
